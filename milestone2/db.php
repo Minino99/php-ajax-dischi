@@ -73,5 +73,7 @@ $db = [
     ]
     ];
 
+    echo json_encode($db);
+
 
 ?>
